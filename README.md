@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/6489729/138737524-9c4dc567-ec78-40b4-9
 Alternatively, your can install the `rapidscan` python module with `pip`. This will create a link for `rapidscan` in your PATH. 
 
 ```
-git clone https://github.com/skavngr/rapidscan.git /opt/
+git clone https://github.com/mranv/rapidscan.git /opt/
 cd /opt/rapidscan
 python3 -m pip install .
 ```
